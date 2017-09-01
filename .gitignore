@@ -1,0 +1,12 @@
+/node_modules
+/public/font-awesome-4.7.0
+/storage/*.key
+/vendor
+/.idea
+npm-debug.log
+.env
+/public/Compiled/
+/public/js/bundle.js
+deploy.sh
+exclude-files-production.txt
+rollback.sh
